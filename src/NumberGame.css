@@ -1,0 +1,19 @@
+.winner{
+    color: green;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.loser {
+    color: red;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.NumberGame {
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    width: 15rem;
+}
